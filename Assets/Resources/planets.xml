@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planets>
+	<planet name = "Earth" color="blue" diameter = "1" distancetoSun="1" rotationPeriod="1" orbitalVelocity="1">
+	</planet>
+	<planet name = "Mercury" color="cyan" diameter = "0.3" distancetoSun="0.4" rotationPeriod="58.8" orbitalVelocity="1.59">
+	</planet>
+	<planet name = "Venus" color="yellow" diameter = "0.95" distancetoSun="0.72" rotationPeriod="-244.0" orbitalVelocity="1.18">
+	</planet>
+	<planet name = "Mars" color="red" diameter = "0.35" distancetoSun="1.3" rotationPeriod="1" orbitalVelocity="1">
+	</planet>
+	<planet name = "Jupiter" color="white" diameter = "5" distancetoSun="1.8" rotationPeriod="1" orbitalVelocity="1">
+	</planet>
+	<planet name = "Satum" color="green" diameter = "4" distancetoSun="2.2" rotationPeriod="1" orbitalVelocity="1">
+	</planet>
+</planets>
+
